@@ -1,0 +1,10 @@
+# Local tooling / editor config
+.claude/
+
+# Internal notes (contains local machine paths)
+images/README.txt
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
